@@ -1,4 +1,4 @@
-# 黑马点评
+# LaMelo-Dianping
 
 基于 Spring Boot 的本地生活点评后端，包含用户登录、店铺查询与缓存、博客互动、关注 Feed 和优惠券秒杀等功能。项目集成 Redis、Redisson、RabbitMQ、Sentinel 和 JWT。
 
